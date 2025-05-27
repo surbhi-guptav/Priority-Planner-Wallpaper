@@ -6,7 +6,10 @@ Hey there! Welcome to Priority Planner Wallpaper—a super cool app I made to ma
 
 Watch a demo of Priority Planner Wallpaper in action:
 
-[Click here to view the thumbnail and open the demo video](Google Drive Link Placeholder for Thumbnail) 🎬
+<a href="https://drive.google.com/file/d/11OqSt0XhYyZ2RP60KOHcxuRT79qHac_C/view?usp=sharing">
+    <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/Thumbnail.PNG" width="800"/>
+</a>
+
 
 ## 💡 Why I Made This
 
@@ -58,7 +61,7 @@ Here’s how to use Priority Planner Wallpaper after launching `app.exe`:
     * Click the **lock icon** 🔒 in the bottom-right corner of the screen to unlock the planner.
     * The app will transition from wallpaper mode to planner mode, displaying four quadrants.
       
-      <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/lock-unlock.png" width="600"/>
+      <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/lock-unlock.png" width="600"/>
  
 3.  **Connect a Google Account (Optional)**:
     * Click the **settings icon** (gear) ⚙️ in the bottom-right corner.
@@ -66,7 +69,7 @@ Here’s how to use Priority Planner Wallpaper after launching `app.exe`:
     * Follow the OAuth flow to authorize the app to access your Gmail and Calendar.
     * This enables features like email drafting, calendar events, and reminders.
       
-      <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/Google-account-login.png" width="600"/>
+      <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/Google-account-login.png" width="600"/>
 
 
 ### Managing Tasks
@@ -76,7 +79,7 @@ Here’s how to use Priority Planner Wallpaper after launching `app.exe`:
     * Click the "**+**" button or press Enter to add the task.
     * The task will appear in the selected quadrant.
 
-       <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/add-task.png" width="600"/>
+       <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/add-task.png" width="600"/>
 
 
 2.  **Edit a Task**:
@@ -85,18 +88,18 @@ Here’s how to use Priority Planner Wallpaper after launching `app.exe`:
         * **AI Action**: Perform an AI-powered action (e.g., draft an email, set a reminder). 🧠
         * **Change Color**: Select a pastel color to customize the task card. 🌈
 
-       <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/edit-task.png" width="600"/>
+      <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/edit-task.png" width="600"/>
 
 3.  **Mark as Completed**:
     * Check the box next to a task to mark it as completed. ☑️
     * Completed tasks are moved to the bottom of the quadrant and displayed with a strikethrough.
 
-      <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/completed.png" width="600"/>
+     <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/completed.png" width="600"/>
 
 4.  **Organize Tasks**:
     * Use the "**Prioritize**" button (list icon) 📋 in a quadrant to let AI reorder tasks based on urgency and importance.
 
-      <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/prioritize-task.png" width="600"/>
+      <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/prioritize-task.png" width="600"/>
 
 ### Using AI Features 📧
 
@@ -110,7 +113,7 @@ Here’s how to use Priority Planner Wallpaper after launching `app.exe`:
 2.  **View AI Results**:
     * After an AI action, a modal will display the result (e.g., the drafted email, created reminder, or travel plan). 📄
   
-      <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/ai-button.png" width="600"/>
+      <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/ai-button.png" width="600"/>
 
 ### Customization
 
@@ -118,13 +121,13 @@ Here’s how to use Priority Planner Wallpaper after launching `app.exe`:
     * Click the **palette icon** 🎨 in the bottom-right corner.
     * Select a theme from the list to change the colors of the quadrants.
 
-      <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/Theme-change.png" width="600"/>
+     <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/Theme-change.png" width="600"/>
 
 2.  **Expand Quadrants**:
     * Click the **expand icon** (maximize) ↔️ in a quadrant to focus on it.
     * Click the **minimize icon** to return to the grid view.
 
-      <img src="https://github.com/surbhi-guptav/project/blob/main/screenshots-userguide/min-max-quadrants.png" width="600"/>
+      <img src="https://github.com/surbhi-guptav/Priority-Planner-Wallpaper/blob/main/screenshots-userguide/min-max-quadrants.png" width="600"/>
 
 ### Lock the Planner
 
